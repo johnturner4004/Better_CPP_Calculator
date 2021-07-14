@@ -25,7 +25,7 @@ After installing the extension while VS Code, open the .cpp file and press <kbd>
 
 ![LANGUAGE](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![CPP_ICON](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 ## License
 
