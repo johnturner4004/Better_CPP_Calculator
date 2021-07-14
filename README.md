@@ -4,7 +4,7 @@
 
 ## Description
 
-This is just a very basic calculator app made using C++. This is just to practice applying variables, cin, cout, getline(cin, string), and some functions from cmath
+This is just a basic calculator app made using C++. This expands on the original calculator by allowing the user to preform all four basic math functions. The purpose of this program is just to practice applying variables, returns, and if statements.
 
 ### Prerequisites
 
@@ -14,16 +14,18 @@ The application itself should run in a mac terminal. If you would like to edit t
 
 ## Installation
 
-After installing the extension while VS Code, open the .cpp file and press <kbd>&#8984;</kbd> + <kbd>T</kbd>. This will both compile the code then run it in VSCode's terminal
+After installing the extension while in VS Code, open the .cpp file and press <kbd>&#8984;</kbd> + <kbd>T</kbd>. This will both compile the code then run it in VSCode's terminal
 ## Usage
 
 1. Compile the source code using a C++ compiler (see above)
-2. Navigate to the folder containing the file in a terminal if you alreqdy are not there
+2. Navigate to the folder containing the file in a terminal if you already are not there
 3. Type in the filename and press <kbd>return</kbd>
+4. When prompted, enter the first number.
+5. Then it will ask for the operator. Only +, -, *, and / are allowed. All other inputs will return "Invalid Operator"
+6. Finally, enter the second number.
+7. The program will then output the result of the calculation.
 
 ## Built With
-
-![LANGUAGE](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
